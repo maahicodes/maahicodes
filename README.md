@@ -2,7 +2,7 @@
 
 
 #### I'm Maheshwari - aka Maahi an aspiring self-taught web developer 👩‍💻 .
-![Twitter_Follow](https://img.shields.io/twitter/follow/maahicodes?color=1DA1F2&logo=twitter&style=for-the-badge)
+![Twitter_Follow](https://img.shields.io/twitter/follow/_maahi21?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 
 - 🎓 Currently pursuing Bachelor's of Engineering. 
