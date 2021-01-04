@@ -1,4 +1,4 @@
-## Hi there, Maahi here 👋
+## Hi there 👋
 
 
 #### I'm Maheshwari - aka Maahi an aspiring self-taught web developer 👩‍💻 .
