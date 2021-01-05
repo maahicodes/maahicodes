@@ -10,16 +10,12 @@
 <br/><br/>
 
 🌱 Learning MERN stack. <br/>
-
 🎯 Currently Focused more on React. <br/>
-
 💯 currently Doing [#100DaysOfCode](#https://codepen.io/maahi21) and Other Challenges. <br/>
-
-💛 Also a CSS guy.
-
+💛 Also a CSS guy.<br/>
 
 <br/>
 
 ## Find Me On:
 
-<img src="https://img.icons8.com/fluent/30/000000/twitter.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/30/000000/codepen.png" />
+<a href="https://codepen.io/maahi21"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>&nbsp;&nbsp;<img src="https://img.icons8.com/ios-filled/30/000000/codepen.png" />
