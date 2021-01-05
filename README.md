@@ -8,8 +8,8 @@
  Currently I am IT undergrand and self-taught web developer from India.      
 
 
- 🌱 Learning MERN stack.   
- 💫 Love to paint the web with CSS.
- 🎯 Currently focused on React.
- 🤓  doing #100DaysOfCode and other challenges.    
+ 🌱 Learning MERN stack. <br/>  
+ 💛 CSS Art.<br/>
+ 🎯 Currently focused on React.<br/>
+ 🤓  Currently doing #100DaysOfCode and other challenges. <br/>   
 
