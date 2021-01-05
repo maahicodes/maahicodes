@@ -2,20 +2,21 @@
 
 <br/>
 
-### About Me:
-
+## About Me:
  I am Maheshwari - aka Maahi<img src="https://c.tenor.com/CKRLt3k_aGIAAAAj/pink-flower-pink.gif" width="20px"> an optimist girl who love to explore new things and technologies.🚀<br/> 
- Currently I am IT undergrand and self-taught web developer 👩‍💻 from India.      
-
-<br/>
+ Currently I am IT undergrad and self-taught web developer 👩‍💻 from India. <br/>
 
 🌱 Learning MERN stack. <br/>
 🎯 Currently Focused more on React. <br/>
 💯 currently Doing #100DaysOfCode and Other Challenges. <br/>
 💛 Also a CSS guy.<br/>
-<br/>
 
-### Find Me On:
+## Find Me On:
 
 <a href="https://twitter.com/maahicodes"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href="https://codepen.io/maahi21"><img src="https://img.icons8.com/ios-filled/30/000000/codepen.png" /></a>
+     
+     
+     
+     
+  
