@@ -4,15 +4,19 @@
 
 ## About Me:
 
- I am Maheshwari - aka Maahi, an optimist girl who love to explore new things and technologies.<br/> 
+ I am Maheshwari - aka Maahi, an optimist girl who love to explore new things and technologies.🚀<br/> 
  Currently I am IT undergrand and self-taught web developer from India.      
 
 <br/><br/>
 
- 🌱 Learning MERN stack.<br/>
- 🎯 Currently focused on React.<br/>
- 🤓  Currently doing #100DaysOfCode and other challenges. <br/>   
- 💛 Also a CSS guy.<br/>
+🌱 Learning MERN stack. <br/>
+
+🎯 Currently Focused more on React. <br/>
+
+💯 currently Doing [#100DaysOfCode](#https://codepen.io/maahi21) and Other Challenges. <br/>
+
+💛 Also a CSS guy.
+
 
 <br/>
 
