@@ -11,6 +11,7 @@
 🎯 Currently Focused more on React. <br/>
 💯 Currently Doing #100DaysOfCode and Other Challenges. <br/>
 💛 Also a CSS guy.<br/>
+⚡ Fun fact: I can make better code than food. 😂
 
 
 ### Find Me On:
