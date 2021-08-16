@@ -10,8 +10,7 @@
 🌱 Learning MERN stack. <br/>
 🎯 Currently Focused more on React. <br/>
 💯 Currently Doing #100DaysOfCode and Other Challenges. <br/>
-💛 Also a CSS guy.<br/>
-⚡ Fun fact: can cook better code than food. 😂
+💛 Also a CSS girl.<br/>
 
 
 ### Find Me On:
