@@ -4,8 +4,7 @@
 <br/>
 
 ### About Me:
- I am Maheshwari - aka Maahi<img src="https://c.tenor.com/CKRLt3k_aGIAAAAj/pink-flower-pink.gif" width="20px"> an optimist girl who love to explore new things and technologies.🚀<br/> 
- Currently I'm an IT undergrad and self-taught web developer 👩‍💻 from India. <br/>
+ I am Maheshwari - aka Maahi<img src="https://c.tenor.com/CKRLt3k_aGIAAAAj/pink-flower-pink.gif" width="20px"> an optimist girl who love to explore new things and technologies.🚀I'm an IT graduate and self-taught web developer 👩‍💻 from India. <br/>
 
 🌱 Learning MERN stack. <br/>
 🎯 Currently Focused more on React. <br/>
