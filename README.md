@@ -3,15 +3,6 @@
 
 <br/>
 
-### About Me:
- I am Maheshwari - aka Maahi<img src="https://c.tenor.com/CKRLt3k_aGIAAAAj/pink-flower-pink.gif" width="20px"> an optimist girl who love to explore new things and technologies.🚀I'm an IT graduate and self-taught web developer 👩‍💻 from India. <br/>
-
-🌱 Learning MERN stack. <br/>
-🎯 Currently Focused more on React. <br/>
-💯 Currently Doing #100DaysOfCode and Other Challenges. <br/>
-💛 Also a CSS girl.<br/>
-
-
 ### Find Me On:
 
 <a href="https://twitter.com/maahicodes"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"/></a>&nbsp;&nbsp;
